@@ -6,7 +6,7 @@ Check in this repo for general information
 
 We are a creative studio specializing in Web Development, Web Design, Game Design, Game Development, Graphic Designing, and Made-To-Order Custom Software!
 
-Our Site: https://www.pixelatedstudios.xyz
+Our Site: https://www.pixelatedstudios.net
 Our Discord: https://discord.gg/xQjajwNzrR
 Our TrustPilot: https://www.trustpilot.com/review/pixelatedstudios.xyz
 Our Freelancer Page: https://www.freelancer.com/u/PixelatedStudios
