@@ -19,7 +19,7 @@ Our Freelancer Page: https://www.freelancer.com/u/PixelatedStudios
 ### A: We are presently undergoing incorpoation to become an independant company. Presently we are a subsidiary of BTG Entertainment. This number will change in the near future. This page will be updated when it does change. `Registration number: TN20479531`
 
 ### Q: `How do I contact you guys for general questions?`
-### A: You can reach us for customer support by emailing us at `support@pixelatedstudios.xyz` to report abuse of our mail-server please contact us at `postmaster@pixelatedstudios.xyz` to report fraudulent use of our company name or any of our properties please reach out to us at `abuse@pixelatedstudios.xyz`
+### A: You can reach us for customer support by emailing us at `support@pixelatedstudios.net` to report abuse of our mail-server please contact us at `postmaster@pixelatedstudios.net` to report fraudulent use of our company name or any of our properties please reach out to us at `abuse@pixelatedstudios.net`
 
 (FAQ will be updated as common questions come up)
 
